@@ -1,6 +1,11 @@
 <div align="center">
 <picture>
-  <source  srcset="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png">
+  <source  srcset="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/images/preview-1.png">
+  <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png" width="450px" height="400px">
+</picture>
+
+<picture>
+  <source  srcset="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/images/preview-2.png">
   <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png" width="450px" height="400px">
 </picture>
 </div>
